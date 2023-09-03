@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abdoul Faride Bassirou Alzouma
 - 👀 I’m interested in DevSecOps
 - 🌱 I’m currently learning Information System Engineering
-- 💞️ I’m looking to collaborate on Big Projects
-- 📫 How to reach me Instagram @farid_bass_alz
+- 💞️ I’m looking to collaborate on Real World Projects
+- 📫 How to reach me : abdoulfaridbassirou7898@gmail.com
 
 <!---
 baafbass/baafbass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
