@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdoul Faride Bassirou Alzouma
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning Terraform
 - 💞️ I’m looking to collaborate on Real World Projects
 - 📫 How to reach me : abdoulfaridbassirou7898@gmail.com
 
