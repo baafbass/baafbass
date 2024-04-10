@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdoul Faride Bassirou Alzouma
-- 👀 I’m interested in DevSecOps
-<!-- - 🌱 I’m currently learning Terraform -->
-- 💞️ I’m looking to collaborate on Real World Projects
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me : abdoulfaridbassirou7898@gmail.com
 
 <!---
