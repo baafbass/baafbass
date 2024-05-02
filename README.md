@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farid
 - 👀 I’m interested in Software Development and Artificial Intelligence
 - 🌱 I’m currently learning DevOps Engineering
-- 💞️ I’m looking to collaborate on AI Powered WEB,MOBILE Applications
+- 💞️ I’m looking to collaborate on AI Powered Applications Development
 - 📫 How to reach me : abdoulfaridbassirou7898@gmail.com
 
 <!---
